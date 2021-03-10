@@ -1,0 +1,41 @@
+﻿1.Administrative : Administrative Value
+
+2.Administrative_Duration : Duration in Administrative Page
+
+3.Informational : Informational Value
+
+4.Informational_Duration : Duration in Informational Page
+
+5.ProductRelated : Product Related Value
+
+6.ProductRelated_Duration : Duration in Product Related Page
+
+7.BounceRates : Bounce Rates of a web page
+i.e is feature for a web page refers to the percentage of visitors who enter the site from that page
+and then leave ("bounce") without triggering any other requests to the analytics server during that session
+
+8.ExitRates : Exit rate of a web page
+i.e is for a specific web page is calculated as for all pageviews to the page, the percentage that were the last in the session.
+
+9.PageValues : Page values of each web page
+i.e is average value for a web page that a user visited before completing an e-commerce transaction
+
+10.SpecialDay : Special days like valentine etc
+visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely 
+to be finalized with transaction.
+
+11.Month : Month of the year
+
+12.OperatingSystems : Operating system used
+
+13.Browser : Browser used
+
+14.Region : Region of the user
+
+15.TrafficType : Traffic Type
+
+16.VisitorType : Types of Visitor
+
+17.Weekend : Weekend or not
+
+18.Revenue : Revenue will be generated or not
